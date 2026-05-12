@@ -6,14 +6,14 @@
     <description>Humync update feed</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.2</title>
+      <title>Version 1.0.3</title>
       <sparkle:version>1</sparkle:version>
-      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
-      <pubDate>Tue, 12 May 2026 14:47:07 +0700</pubDate>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <pubDate>Tue, 12 May 2026 16:23:45 +0700</pubDate>
       <enclosure
-        url="https://github.com/khalldev/Humync/releases/download/v1.0.2/Humync.dmg"
-        sparkle:edSignature="MTmhzSlGF2LTgFKcL6+LH0Y+Xmh5KTsM/AJJuCp9COnFTsrP4JJF8uQhj+UDgoeBNKGUpz5uQ4TkCw1WweLmCw=="
-        length="3290198"
+        url="https://github.com/khalldev/humync-releases/releases/download/v1.0.3/Humync.dmg"
+        sparkle:edSignature="sparkle:edSignature="JOEd+rhwqvFHTLNQI4OxQ/Q10KY9FZGtErMUcPAJq1AXky/+rvDriSEsfcTiwOW97kfJCzTuq3FHrAQge+n6AQ==" length="3290214""
+        length="3290214"
         type="application/octet-stream" />
     </item>
   </channel>
