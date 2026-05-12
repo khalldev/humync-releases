@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Humync</title>
+    <link>https://github.com/khalldev/Humync</link>
+    <description>Humync update feed</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.0.2</title>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <pubDate>Tue, 12 May 2026 14:47:07 +0700</pubDate>
+      <enclosure
+        url="https://github.com/khalldev/Humync/releases/download/v1.0.2/Humync.dmg"
+        sparkle:edSignature="MTmhzSlGF2LTgFKcL6+LH0Y+Xmh5KTsM/AJJuCp9COnFTsrP4JJF8uQhj+UDgoeBNKGUpz5uQ4TkCw1WweLmCw=="
+        length="3290198"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
